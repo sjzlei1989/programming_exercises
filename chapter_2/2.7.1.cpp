@@ -1,9 +1,12 @@
+/*
+编写一个C++程序，它显示您的姓名和地址
+*/
 #include <iostream>
 
 int main()
 {
 	using namespace std;
-	cout << "秦晓磊" << endl;
-	cout << "石家庄" << endl;
+	cout << "xiaolei" << endl;
+	cout << "sjz" << endl;
 	return 0;
 }
